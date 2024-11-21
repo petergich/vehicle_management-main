@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>No Data Found</title>
+  </head>
+  <body>
+    <div class="container">
+      <h2>No Data Found</h2>
+      <p>
+        Sorry, there is no data available for the selected month ({{ month }})
+        and year ({{ year }}).
+      </p>
+      <p>Please try a different month and year or check your selection.</p>
+      <a href="{% url 'journeymanagement' %}">Go back to filter data</a>
+    </div>
+  </body>
+</html>

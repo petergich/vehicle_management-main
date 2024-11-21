@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TECHMINDS TECHNOLOGIES</title>
+    <link
+      rel="stylesheet"
+      href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
+    />
+    <link href="../static/styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <input type="checkbox" id="nav-toggle" />
+    <div class="sidebar">
+      <div class="sidebar-brand">
+        <h2>
+          <img src="../static/Techminds-logo.png">
+        </h2>
+      </div>
+      <div class="sidebar-menu">
+        <ul>
+          <li>
+            <a href="{% url 'dashboard'%}"
+              ><span class="las la-igloo"></span><span>Dashboard</span></a
+            >
+          </li>
+          <li>
+            <a href="http://127.0.0.1:8000/admin/auth/user/"
+              ><span class="las la-users"></span><span>Users</span></a
+            >
+          </li>
+          <li>
+            <a href="{% url 'drivers'%}"
+              ><span class="las la-id-card"></span><span>Drivers</span></a
+            >
+          </li>
+          <li>
+            <a href="{% url 'vehicles'%}"
+              ><span class="las la-car"></span><span>Vehicles</span></a
+            >
+          </li>
+          <li>
+            <a href="{% url 'approvers'%}"
+                ><span class="las la-thumbs-up"></span
+                ><span>Approvers</span></a
+              >
+            </li>
+          <li>
+            <a href="{% url 'journey'%}"
+              ><span class="las la-receipt"></span
+              ><span>Journey Management</span></a
+            >
+          </li>
+          <li>
+            <a href="{% url "vehicle"%}"
+              ><span class="las la-clipboard-check"></span
+              ><span>Vehicle Management</span></a
+            >
+          </li>
+            <li>
+              <a href="{% url "fuel" %}"
+                  ><span class="las la-gas-pump"></span
+                  ><span>Fuels</span></a
+                >
+              </li>
+            <li>
+              <a href="{% url "tracking" %}"
+                  ><span class="las la-chart-line"></span
+                  ><span>Tracking</span></a
+                >
+              </li> 
+        </ul>
+        <ul class="bottom-menu">
+          <li>
+              <a href="{% url 'logout' %}"
+                  ><span class="las la-sign-out-alt"></span><span>Logout</span></a
+              >
+          </li>
+      </ul>
+      </div>
+    </div>
+    <div class="main-content">
+      <header>
+        <h2>
+          <label for="nav-toggle">
+            <span class="las la-bars"></span>
+          </label>
+          Approvers
+        </h2>
+        <div class="search-wrapper">
+          <span class="las la-search"></span>
+          <input type="" placeholder="Search here..." />
+        </div>
+        <div class="user=wrapper">
+          <span class="las la-user"></span>
+          <div>
+            <h4>{{ request.user.username }}</h4>
+            <small>
+              {% if request.user.is_superuser %}
+                  Super admin
+                  {% elif request.user.is_staff %}
+                      Staff
+                      {% else %}
+                          Regular User
+                          {% endif %}
+            </small>
+          </div>
+      </header>
+      <main>
+        <div class="container2">
+          <table class="content-table"> 
+            <thead>        
+            <tr>
+              <th>NAME</th>
+              <th>APPROVER DEPARTMENT</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for item in aprovers %}
+            <tr>
+              <td>{{ item.name }}</td>
+              <td>{{ item.Department }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+          </table>
+        </div>    
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1188 @@
+[
+    {
+        "label": "EmailMessage",
+        "importPath": "email.message",
+        "description": "email.message",
+        "isExtraImport": true,
+        "detail": "email.message",
+        "documentation": {}
+    },
+    {
+        "label": "ssl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ssl",
+        "description": "ssl",
+        "detail": "ssl",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "vehicle_app.models",
+        "description": "vehicle_app.models",
+        "isExtraImport": true,
+        "detail": "vehicle_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "django",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django",
+        "description": "django",
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Workbook",
+        "importPath": "openpyxl",
+        "description": "openpyxl",
+        "isExtraImport": true,
+        "detail": "openpyxl",
+        "documentation": {}
+    },
+    {
+        "label": "PatternFill",
+        "importPath": "openpyxl.styles",
+        "description": "openpyxl.styles",
+        "isExtraImport": true,
+        "detail": "openpyxl.styles",
+        "documentation": {}
+    },
+    {
+        "label": "Font",
+        "importPath": "openpyxl.styles",
+        "description": "openpyxl.styles",
+        "isExtraImport": true,
+        "detail": "openpyxl.styles",
+        "documentation": {}
+    },
+    {
+        "label": "Alignment",
+        "importPath": "openpyxl.styles",
+        "description": "openpyxl.styles",
+        "isExtraImport": true,
+        "detail": "openpyxl.styles",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "openpyxl.drawing.image",
+        "description": "openpyxl.drawing.image",
+        "isExtraImport": true,
+        "detail": "openpyxl.drawing.image",
+        "documentation": {}
+    },
+    {
+        "label": "BarChart",
+        "importPath": "openpyxl.chart",
+        "description": "openpyxl.chart",
+        "isExtraImport": true,
+        "detail": "openpyxl.chart",
+        "documentation": {}
+    },
+    {
+        "label": "LineChart",
+        "importPath": "openpyxl.chart",
+        "description": "openpyxl.chart",
+        "isExtraImport": true,
+        "detail": "openpyxl.chart",
+        "documentation": {}
+    },
+    {
+        "label": "Reference",
+        "importPath": "openpyxl.chart",
+        "description": "openpyxl.chart",
+        "isExtraImport": true,
+        "detail": "openpyxl.chart",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "importPath": "dateutil",
+        "description": "dateutil",
+        "isExtraImport": true,
+        "detail": "dateutil",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "TruncDate",
+        "importPath": "django.db.models.functions",
+        "description": "django.db.models.functions",
+        "isExtraImport": true,
+        "detail": "django.db.models.functions",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "vehicle_app.management.commands.app2",
+        "description": "vehicle_app.management.commands.app2",
+        "peekOfCode": "password = \"subikfmymdmarwja\"",
+        "detail": "vehicle_app.management.commands.app2",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "vehicle_app.management.commands.email",
+        "description": "vehicle_app.management.commands.email",
+        "peekOfCode": "class Command(BaseCommand):\n    help = \"Checking vehicle status\"\n    def handle(self, *args, **options):\n        while True:\n            test()\n            time.sleep(2)",
+        "detail": "vehicle_app.management.commands.email",
+        "documentation": {}
+    },
+    {
+        "label": "test",
+        "kind": 2,
+        "importPath": "vehicle_app.management.commands.email",
+        "description": "vehicle_app.management.commands.email",
+        "peekOfCode": "def test():\n    date = datetime.now().date()\n    for dre in dr:\n        datew = dre.Insuarance_expiry_date\n        difference = datew-date\n        if difference.days > 30 and dre.Plate_no in lis:\n            lis.remove(dre.Plate_no)\n            return False\n        if difference.days < 30 and dre.Plate_no not in lis:\n            email_sender = 'shixlinsey@gmail.com'",
+        "detail": "vehicle_app.management.commands.email",
+        "documentation": {}
+    },
+    {
+        "label": "dr",
+        "kind": 5,
+        "importPath": "vehicle_app.management.commands.email",
+        "description": "vehicle_app.management.commands.email",
+        "peekOfCode": "dr = Vehicle.objects.all()\nlis = []\ninspec = []\ndef test():\n    date = datetime.now().date()\n    for dre in dr:\n        datew = dre.Insuarance_expiry_date\n        difference = datew-date\n        if difference.days > 30 and dre.Plate_no in lis:\n            lis.remove(dre.Plate_no)",
+        "detail": "vehicle_app.management.commands.email",
+        "documentation": {}
+    },
+    {
+        "label": "lis",
+        "kind": 5,
+        "importPath": "vehicle_app.management.commands.email",
+        "description": "vehicle_app.management.commands.email",
+        "peekOfCode": "lis = []\ninspec = []\ndef test():\n    date = datetime.now().date()\n    for dre in dr:\n        datew = dre.Insuarance_expiry_date\n        difference = datew-date\n        if difference.days > 30 and dre.Plate_no in lis:\n            lis.remove(dre.Plate_no)\n            return False",
+        "detail": "vehicle_app.management.commands.email",
+        "documentation": {}
+    },
+    {
+        "label": "inspec",
+        "kind": 5,
+        "importPath": "vehicle_app.management.commands.email",
+        "description": "vehicle_app.management.commands.email",
+        "peekOfCode": "inspec = []\ndef test():\n    date = datetime.now().date()\n    for dre in dr:\n        datew = dre.Insuarance_expiry_date\n        difference = datew-date\n        if difference.days > 30 and dre.Plate_no in lis:\n            lis.remove(dre.Plate_no)\n            return False\n        if difference.days < 30 and dre.Plate_no not in lis:",
+        "detail": "vehicle_app.management.commands.email",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vehicle_app.migrations.0001_initial",
+        "description": "vehicle_app.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Aprover',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50)),",
+        "detail": "vehicle_app.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vehicle_app.migrations.0002_delete_email_alter_fuel_liters_taken_alter_fuel_cost",
+        "description": "vehicle_app.migrations.0002_delete_email_alter_fuel_liters_taken_alter_fuel_cost",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('vehicle_app', '0001_initial'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Email',\n        ),\n        migrations.AlterField(\n            model_name='fuel',",
+        "detail": "vehicle_app.migrations.0002_delete_email_alter_fuel_liters_taken_alter_fuel_cost",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vehicle_app.migrations.0003_alter_fuel_receipt",
+        "description": "vehicle_app.migrations.0003_alter_fuel_receipt",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('vehicle_app', '0002_delete_email_alter_fuel_liters_taken_alter_fuel_cost'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='fuel',\n            name='receipt',\n            field=models.ImageField(upload_to='images/'),\n        ),",
+        "detail": "vehicle_app.migrations.0003_alter_fuel_receipt",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vehicle_app.migrations.0004_alter_fuel_receipt",
+        "description": "vehicle_app.migrations.0004_alter_fuel_receipt",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('vehicle_app', '0003_alter_fuel_receipt'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='fuel',\n            name='receipt',\n            field=models.ImageField(blank=True, null=True, upload_to='uploads/'),\n        ),",
+        "detail": "vehicle_app.migrations.0004_alter_fuel_receipt",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleAppConfig",
+        "kind": 6,
+        "importPath": "vehicle_app.apps",
+        "description": "vehicle_app.apps",
+        "peekOfCode": "class VehicleAppConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'vehicle_app'",
+        "detail": "vehicle_app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Driver",
+        "kind": 6,
+        "importPath": "vehicle_app.models",
+        "description": "vehicle_app.models",
+        "peekOfCode": "class Driver(models.Model):\n    name = models.CharField(max_length=50, unique=True)\n    Driver_license_number = models.CharField(max_length=50)\n    LNO_expiry_date = models.DateField()\n    categories_approved = models.CharField(max_length=254)\n    training = models.CharField(max_length=500)\n    def __str__(self):\n        return self.name\nclass Aprover(models.Model):\n    name = models.CharField(max_length=50)",
+        "detail": "vehicle_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aprover",
+        "kind": 6,
+        "importPath": "vehicle_app.models",
+        "description": "vehicle_app.models",
+        "peekOfCode": "class Aprover(models.Model):\n    name = models.CharField(max_length=50)\n    Department = models.CharField(max_length=50)\n    def __str__(self):\n        return self.name\nclass Vehicle(models.Model):\n    Plate_no = models.CharField(max_length=20, unique=True)\n    vehicle_make = models.CharField(max_length=100)\n    vehicle_type = models.CharField(max_length=100)\n    owner = models.CharField(max_length=50)",
+        "detail": "vehicle_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vehicle",
+        "kind": 6,
+        "importPath": "vehicle_app.models",
+        "description": "vehicle_app.models",
+        "peekOfCode": "class Vehicle(models.Model):\n    Plate_no = models.CharField(max_length=20, unique=True)\n    vehicle_make = models.CharField(max_length=100)\n    vehicle_type = models.CharField(max_length=100)\n    owner = models.CharField(max_length=50)\n    email = models.EmailField(max_length=30)\n    telephone = models.IntegerField()\n    Insuarance_start_date = models.DateField()\n    Insuarance_expiry_date = models.DateField()\n    last_inspection_date = models.DateField()",
+        "detail": "vehicle_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Journey",
+        "kind": 6,
+        "importPath": "vehicle_app.models",
+        "description": "vehicle_app.models",
+        "peekOfCode": "class Journey(models.Model):\n    Date = models.DateField()\n    Driver = models.ForeignKey(Driver, on_delete=models.SET_NULL, null=True)\n    Vehicle = models.ForeignKey(Vehicle, on_delete=models.SET_NULL, null=True)\n    Start_odometer_reading = models.IntegerField(\n        validators=[MinValueValidator(0)])\n    Stop_odometer_reading = models.IntegerField(\n        validators=[MinValueValidator(0)])\n    Round_trip_distance = models.IntegerField(default=0)\n    vehicle_condition = models.CharField(max_length=50)",
+        "detail": "vehicle_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Fuel",
+        "kind": 6,
+        "importPath": "vehicle_app.models",
+        "description": "vehicle_app.models",
+        "peekOfCode": "class Fuel(models.Model):\n    Date = models.DateField()\n    Vehicle = models.ForeignKey(Vehicle, on_delete=models.CASCADE)\n    Driver = models.ForeignKey(Driver, on_delete=models.SET_NULL, null=True)\n    current_odometer_reading = models.IntegerField()\n    total_distance_from_previous_fueling = models.IntegerField()\n    Liters_taken = models.DecimalField(max_digits=10, decimal_places=2)\n    cost = models.DecimalField(max_digits=10, decimal_places=2)\n    receipt = models.ImageField(upload_to='uploads/', null=True, blank=True)\n    effiency = models.IntegerField()",
+        "detail": "vehicle_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tracking",
+        "kind": 6,
+        "importPath": "vehicle_app.models",
+        "description": "vehicle_app.models",
+        "peekOfCode": "class Tracking(models.Model):\n    Vehicle = models.ForeignKey(Vehicle, on_delete=models.CASCADE)\n    Driver = models.ForeignKey(Driver, on_delete=models.CASCADE)\n    Date = models.DateField()\n    Daily_vehicle_tracking_distance = models.IntegerField()\n    Overspeeding = models.IntegerField()\n    JMP_daily_distance = models.IntegerField()\n    def __str__(self):\n        return str(self.Date) + \" \" + str(self.Vehicle)",
+        "detail": "vehicle_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "vehicle_app.urls",
+        "description": "vehicle_app.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.Login, name=\"login\"),\n    path(\"\", views.Logout, name=\"logout\"),\n    path(\"dashboard\", views.Dashboard, name=\"dashboard\"),\n    path('journey', views.journey, name=\"journey\"),\n    path('vehicle', views.vehicle, name='vehicle'),\n    path('fuel', views.fuel, name='fuel'),\n    path('tracking', views.tracking, name='tracking'),\n    path('vehiclemaintenance', views.vehiclemaintenance, name='vehiclemaintenance'),\n    path('vehicleinspection', views.vehicleinspection, name='vehicleinspection'),",
+        "detail": "vehicle_app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Login",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def Login(request):\n    if request.method == 'POST':\n        usern = request.POST['usern']\n        passw = request.POST['passw']\n        user = auth.authenticate(username=usern, password=passw)\n        if user is not None:\n            auth.login(request, user)\n            messages.success(request, 'You are now logged in ' + usern)\n            return redirect('dashboard')\n        else:",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "Dashboard",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def Dashboard(request):\n    labels = []\n    data = []\n    lbls = []\n    dt = []\n    queryset = Tracking.objects.order_by('-Overspeeding')[:5]\n    for d in queryset:\n        labels.append(d.Driver.name)\n        data.append(d.Overspeeding)\n    queryset = Fuel.objects.order_by('-Liters_taken')[:5]",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "Logout",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def Logout(request):\n    if request.method == 'POST':\n        auth.logout(request)\n        messages.success(request, 'You are now logged out')\n        return redirect('Login')\n    return redirect('Login')\n@login_required(login_url=\"\")\ndef journey(request):\n    if request.method == 'POST':\n        date = request.POST['date']",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "journey",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def journey(request):\n    if request.method == 'POST':\n        date = request.POST['date']\n        driver = request.POST['nam']\n        vehicles = request.POST['vehicle']\n        stop = request.POST['stop']\n        vehicle_condition = request.POST['vehicle_condition']\n        initial_jmp = request.POST['initial_jmp']\n        final_jmp = request.POST['final_jmp']\n        start_trip = request.POST['start_trip']",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "vehicle",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def vehicle(request):\n    vehicles = Vehicle.objects.all()\n    objects = []\n    for veh in vehicles:\n        if veh.Distance_remaining < 500:\n            objects.append({\"vehicle\": veh, \"status\": \"Needs servicing\"})\n        else:\n            objects.append({\"vehicle\": veh, \"status\": \"Good\"})\n    return render(request, \"vehiclemanagement.html\", {\"objects\": objects})\n@login_required(login_url=\"\")",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "fuel",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def fuel(request):\n    if request.method == \"POST\":\n        date = request.POST['date']\n        vehicles = request.POST['vehicle']\n        driver = request.POST['driver']\n        current_odometer_reading = request.POST['current_odometer_reading']\n        liters_taken = request.POST['liters_taken']\n        cost = request.POST['cost']\n        receipt = request.POST['receipt']\n        veh = Fuel.objects.filter(Vehicle__Plate_no=vehicles)",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "tracking",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def tracking(request):\n    if request.method == \"POST\":\n        vehicles = Vehicle.objects.all()\n        drivers = Driver.objects.all()\n        vehicle = request.POST['vehicle']\n        driver = request.POST['driver']\n        date = request.POST['date']\n        daily_distance = request.POST['distance']\n        overspeeding = request.POST['speeding']\n        jmp_daily_distance = request.POST['jmpdistance']",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "vehiclemaintenance",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def vehiclemaintenance(request):\n    return render(request, 'vehiclemaintenance.html')\n@login_required(login_url=\"\")\ndef vehicleinspection(request):\n    vehicles = Vehicle.objects.all()\n    if request.method == \"POST\":\n        vehicle = request.POST['vehicle']\n        inspection_date = request.POST['inspection_date']\n        next_inspection_date = request.POST['next_inspection_date']\n        vhe = Vehicle.objects.get(Plate_no=vehicle)",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "vehicleinspection",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def vehicleinspection(request):\n    vehicles = Vehicle.objects.all()\n    if request.method == \"POST\":\n        vehicle = request.POST['vehicle']\n        inspection_date = request.POST['inspection_date']\n        next_inspection_date = request.POST['next_inspection_date']\n        vhe = Vehicle.objects.get(Plate_no=vehicle)\n        vhe.last_inspection_date = datetime.strptime(\n            inspection_date, '%Y-%m-%d')\n        vhe.next_inspection_date = datetime.strptime(",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "vehicleinsuarance",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def vehicleinsuarance(request):\n    vehicles = Vehicle.objects.all()\n    if request.method == \"POST\":\n        vehicle = request.POST['vehicle']\n        insuarance_date = request.POST['insuarance_date']\n        insuarance_expiry = request.POST['insuarance_expiry']\n        car = Vehicle.objects.get(Plate_no=vehicle)\n        car.Insuarance_start_date = datetime.strptime(\n            insuarance_date, '%Y-%m-%d')\n        car.Insuarance_expiry_date = datetime.strptime(",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "vehicleservicing",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def vehicleservicing(request):\n    vehicles = Vehicle.objects.all()\n    if request.method == \"POST\":\n        vehicle = request.POST['vehicle']\n        service_distance = request.POST['service_distance']\n        cre = Vehicle.objects.get(Plate_no=vehicle)\n        cre.last_service_distance = int(service_distance)\n        cre.Distance_remaining = 5000\n        try:\n            cre.save()",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "monthly_jmps",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def monthly_jmps(request):\n    if request.method == 'POST':\n        month = request.POST['month']\n        year = request.POST['year']\n        value = {\n            'January': 1,\n            'February': 2,\n            'March': 3,\n            'April': 4,\n            'May': 5,",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "jmpreports",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def jmpreports(request):\n    if request.method == 'GET':\n        try:\n            month = request.GET['month']\n            year = request.GET['year']\n        except KeyError:\n            return render(request, 'jmpreports.html')\n        monthly_jmps = Journey.objects.filter(\n            Date__month=month, Date__year=year)\n        if not monthly_jmps:",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "view_tracking",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def view_tracking(request):\n    if request.method == 'POST':\n        month = request.POST['month']\n        year = request.POST['year']\n        value = {\n            'January': 1,\n            'February': 2,\n            'March': 3,\n            'April': 4,\n            'May': 5,",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "trackingreports",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def trackingreports(request):\n    if request.method == 'GET':\n        try:\n            month = request.GET['month']\n            year = request.GET['year']\n        except KeyError:\n            return render(request, 'trackingreports.html')\n        view_tracking = Tracking.objects.filter(\n            Date__month=month, Date__year=year)\n        if not view_tracking:",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "drivers",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def drivers(request):\n    if request.method == 'POST':\n        name = request.POST['name']\n        licence = request.POST['licence']\n        expiry_date = request.POST['expiry_date']\n        categories = request.POST['categories']\n        trainings = request.POST['trainings']\n        instance = Driver(name=name, Driver_license_number=licence,\n                          LNO_expiry_date=expiry_date, categories_approved=categories, training=trainings)\n        try:",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "approvers",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def approvers(request):\n    if request.method == 'POST':\n        name = request.POST['name']\n        app_id = request.POST['app_id']\n        instance = Aprover(name=name, Department=app_id)\n        try:\n            instance.save()\n            return render(request, 'addapprovers.html', {\"approvers\": approvers, \"message\": \"Saved Successfully\"})\n        except:\n            return render(request, 'addapprovers.html', {\"approvers\": approvers, \"message\": \"Error Occured\"})",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "vehicles",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def vehicles(request):\n    if request.method == 'POST':\n        no_plate = request.POST['no_plate']\n        vehicle_make = request.POST['vehicle_make']\n        vehicle_type = request.POST['vehicle_type']\n        owner = request.POST['owner']\n        email = request.POST['email']\n        telephone = request.POST['telephone']\n        start_date = request.POST['start_date']\n        expiry_date = request.POST['expiry_date']",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "view_drivers",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def view_drivers(request):\n    drivers = Driver.objects.all()\n    return render(request, 'viewdrivers.html', {\"drivers\": drivers})\n@login_required(login_url=\"\")\ndef view_jmps(request):\n    if request.method == 'POST':\n        date = request.POST['date']\n        date_object = datetime.strptime(date, '%Y-%m-%d')\n        day = date_object.day\n        month = date_object.month",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "view_jmps",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def view_jmps(request):\n    if request.method == 'POST':\n        date = request.POST['date']\n        date_object = datetime.strptime(date, '%Y-%m-%d')\n        day = date_object.day\n        month = date_object.month\n        year = date_object.year\n        if date:\n            journeys = Journey.objects.filter(\n                Date__day=day, Date__month=month, Date__year=year",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "daily_jmp",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def daily_jmp(request):\n    if request.method == 'GET':\n        date = request.GET['date']\n        date_object = datetime.strptime(date, '%Y-%m-%d')\n        day = date_object.day\n        month = date_object.month\n        year = date_object.year\n        view_jmps = Journey.objects.filter(\n            Date__day=day, Date__month=month, Date__year=year)\n        if not view_jmps:",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "view_approvers",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def view_approvers(request):\n    aprovers = Aprover.objects.all()\n    return render(request, 'viewapprovers.html', {\"aprovers\": aprovers})\n@login_required(login_url=\"\")\ndef view_fueling(request):\n    if request.method == 'POST':\n        month = request.POST['month']\n        year = request.POST['year']\n        value = {\n            'January': 1,",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "view_fueling",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def view_fueling(request):\n    if request.method == 'POST':\n        month = request.POST['month']\n        year = request.POST['year']\n        value = {\n            'January': 1,\n            'February': 2,\n            'March': 3,\n            'April': 4,\n            'May': 5,",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "fuelingreport",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def fuelingreport(request):\n    if request.method == 'GET':\n        try:\n            month = request.GET['month']\n            year = request.GET['year']\n        except KeyError:\n            return render(request, 'fuelingreport.html')\n        view_fueling = Fuel.objects.filter(Date__month=month, Date__year=year)\n        if not view_fueling:\n            return render(request, 'no_data.html', {\"month\": month, \"year\": year})",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "fueling",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def fueling(request):\n    return render(request, 'fuelingreport.html')\n@login_required(login_url=\"\")\ndef vehicle_tracking(request):\n    return render(request, 'trackingreports.html')\n@login_required(login_url=\"\")\ndef journey_management(request):\n    return render(request, 'jmpreports.html')\n@login_required(login_url=\"\")\ndef jmp_daily(request):",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "vehicle_tracking",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def vehicle_tracking(request):\n    return render(request, 'trackingreports.html')\n@login_required(login_url=\"\")\ndef journey_management(request):\n    return render(request, 'jmpreports.html')\n@login_required(login_url=\"\")\ndef jmp_daily(request):\n    return render(request, 'dailyjmptable.html')\n@login_required(login_url=\"\")\ndef jmps(request):",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "journey_management",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def journey_management(request):\n    return render(request, 'jmpreports.html')\n@login_required(login_url=\"\")\ndef jmp_daily(request):\n    return render(request, 'dailyjmptable.html')\n@login_required(login_url=\"\")\ndef jmps(request):\n    return render(request, 'viewjmps.html')",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "jmp_daily",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def jmp_daily(request):\n    return render(request, 'dailyjmptable.html')\n@login_required(login_url=\"\")\ndef jmps(request):\n    return render(request, 'viewjmps.html')",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "jmps",
+        "kind": 2,
+        "importPath": "vehicle_app.views",
+        "description": "vehicle_app.views",
+        "peekOfCode": "def jmps(request):\n    return render(request, 'viewjmps.html')",
+        "detail": "vehicle_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "vehicle_management.asgi",
+        "description": "vehicle_management.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "vehicle_management.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-*x-%%je4ph35nyjju6%$j294@21$_25+y+-5a+_8%bb!==+*q+'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nLOGIN_URL = \"login\"\n# Application definition",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-*x-%%je4ph35nyjju6%$j294@21$_25+y+-5a+_8%bb!==+*q+'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nLOGIN_URL = \"login\"\n# Application definition\nINSTALLED_APPS = [\n    'vehicle_app.apps.VehicleAppConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nLOGIN_URL = \"login\"\n# Application definition\nINSTALLED_APPS = [\n    'vehicle_app.apps.VehicleAppConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\nLOGIN_URL = \"login\"\n# Application definition\nINSTALLED_APPS = [\n    'vehicle_app.apps.VehicleAppConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "LOGIN_URL = \"login\"\n# Application definition\nINSTALLED_APPS = [\n    'vehicle_app.apps.VehicleAppConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'vehicle_app.apps.VehicleAppConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nMIDDLEWARE = [",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'vehicle_management.urls'",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "ROOT_URLCONF = 'vehicle_management.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'vehicle_management.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "vehicle_management.settings",
+        "description": "vehicle_management.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "vehicle_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "vehicle_management.urls",
+        "description": "vehicle_management.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"\", include(\"vehicle_app.urls\")),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL,\n                          document_root=settings.MEDIA_ROOT)",
+        "detail": "vehicle_management.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "vehicle_management.wsgi",
+        "description": "vehicle_management.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "vehicle_management.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'vehicle_management.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
